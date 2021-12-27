@@ -1,5 +1,18 @@
 .top-header {
     text-align: center;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    min-height: 50px;
+    z-index: 110;
+    background-color: rgb(33, 33, 33);
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration-line: none;
 }
 
 nav {
