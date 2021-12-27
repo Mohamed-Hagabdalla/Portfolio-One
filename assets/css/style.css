@@ -1,0 +1,12 @@
+.top-header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
