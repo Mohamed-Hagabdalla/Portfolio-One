@@ -1,6 +1,6 @@
 .top-header {
     text-align: center;
-    position: fixed;
+    position: absolute;
     right: 0px;
     left: 0px;
     top: 0px;
@@ -81,4 +81,34 @@ aside {
 
 footer {
     margin-top: 450px;
+}
+
+@media (min-width: 480px) {
+    body {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1201px) {
+    body {
+        font-size: 1rem;
+    }
 }
