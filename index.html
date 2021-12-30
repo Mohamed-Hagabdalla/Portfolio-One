@@ -8,7 +8,7 @@
     <title>The Gym</title>
 </head>
 <body style="background-color: aquamarine;">
-    <div class="row header" id="home">
+    <div class="row header" id="Home">
         <div class="column_5">
             <h1>The Gym</h1>
             <h3>Bringing the community together through fitness since 1999.</h3>
@@ -18,7 +18,7 @@
                 <a href="#Home">Home</a>
             </div>
             <div class="menu_option">
-                <a href="#About-us">About</a>
+                <a href="#About-us">About Us</a>
             </div>
             <div class="menu_option">
                 <a href="#Contact">Contact</a>
@@ -53,15 +53,15 @@
 
     <div class="info">
         <h3>All of our gyms have the same opening times which can be found below:</h3>
-        <p>Our gyms are open from 6.30am - 10pm from Monday to Friday. On the weekends and bank holidays, we are open from 8am - 8pm.</p>
+        <p>Our gyms are open from 6:30am - 10pm from Monday to Friday. On the weekends and bank holidays, we are open from 8am - 8pm.</p>
     </div>
 
         <div class="info">
             <h3>Join our classes:</h3>
             <p>We have many classes available to our members to book. For example, yoga, short-circuit training and many more! All classes are available to our members at no extra cost, so what are you waiting for?</p>
         </div>
-            <br>
-        <div id="about-us" class="about-us">
+
+        <div id="About-us" class="about-us">
             <br>
             <h2>About Us</h2>
             <p>Since 1999, we have been helping transform the lives of our members through fitness. Boost your confidence in your everyday life in our gyms. We welcome all, regardless of your orientation, race, and gender. Join us and notice a difference in your life!</p>
@@ -83,11 +83,11 @@
             </aside>
 
         </div>
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-        <div id="contact">
+
+        <div id="Contact" class="contact">
+            <h1>Contact</h1>
+            <p>If you are interested in purchasing a membership or would like to ask any further questions, then please fill in the contact form below and a member of our team will contact you within 3 working days.</p>
             <form action="https://formdump.codeinstitute.net" method="post">
                 <fieldset>
                 <legend>Your Name:</legend>
@@ -98,13 +98,15 @@
                 <input id="lname" type="text" name="lname" placeholder="Enter Last Name" size="30" required> 
                         
                 </fieldset>
-
+                            <br>
                 <fieldset>
                     <legend>Contact Information:</legend>
                 <label for="email">Email Address:</label>
                 <input type="email" id="email" name="email" placeholder="Enter Email Address" size="30" required>
                 </fieldset>
-                            
+                            <br>
+                <textarea name="textarea" id="textarea" cols="50" rows="10" placeholder="Any additional details"></textarea>
+                            <br>
                 <input type="submit">
                 <input type="reset" value="Reset">     
 
