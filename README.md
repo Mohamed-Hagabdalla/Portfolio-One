@@ -63,7 +63,7 @@ The link to the live website can be found [here](https://mohamed-hagabdalla.gith
 
 ## Credits
 
-Below, I have provided references
+Below, I have provided references to any tools I used as help for my website.
 
 ### content
 
