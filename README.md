@@ -1,1 +1,3 @@
 # The GYM
+
+The GYM is a website aimed at those who are interested in improving their fitness by joining a gym. In the first section, the user can find a promotion offer and benefits of joining. There is an about us section, which provides the user with more information about what they can expect by joining, accompanied by images of existing members in the gym. The fiunal section is the contact section, in which the user can provide their full name and email address and they will be contacted to discuss any matters further.
