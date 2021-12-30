@@ -161,10 +161,41 @@ footer a {
     .column_7 { 
         width: 100%;
     }
-    .column_4 {
-        width: 48%;
-        margin-left: 0.6%;
+
+    .row {
+        width: 100%;
+        display: block;
+        position: relative;
+        border: 0px solid black;
     }
+
+    .column_4 {
+        width: 28%;
+        margin-left: 1.5%;
+    }
+
+    .about-us {
+        text-align: center;
+        position: relative;
+        right: 0px;
+        left: 0px;
+        top: 0px;
+        min-height: 50px;
+        z-index: 110;
+        background-color: rgb(33, 33, 33);
+        margin-top: 0px;
+        color: white;
+    }
+
+    .contact {
+        margin-top: 0px;
+        position: relative;
+    }
+
+    footer {
+        margin-top: 0px;
+    }
+
 }
 
 
@@ -184,6 +215,18 @@ footer a {
     .about_content h2{
         font-size: xx-large;
     }
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: ) {
 
 }
     
