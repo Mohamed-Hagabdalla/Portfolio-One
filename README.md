@@ -30,3 +30,33 @@ There are a few features that enhance the user's experience. For example, a navi
 
 - This contains links to social media sites for **The GYM** that open in a new tab, so the user does not have to go back to the website everytime.
 - Encourages the user to keep up to date with the latest news and offers.
+
+## Testing
+
+Talk about testing here. Talk about website features and make sure they work well, how the website looks on different screen sizes, any problems that occurred when testing.
+
+## Validator Testing
+
+To ensure my HTML and CSS codes ran smoothly and had no errors, I tested for validation. I tested each code and more information on how I tested them is explained below in more detail.
+
+1. HTML
+-  No errors were found when I ran my HTML code on the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
+
+2. CSS
+- No errors were found when I ran my CSS code on the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+## Unfixed Bugs
+
+Talk about unfixed bugs and why they were not fixed. Include shortcomings of the frameworks or technologies used.
+
+## Deployment
+
+The website was deployed to GitHub pages. To successfully deploy my website, I took the following steps:
+
+1. Ensure the relevant respository is loaded and select the settings tab.
+2. Navigate to the pages tab (the second-last option on the left hand side).
+3. Select the main branch, the root folder and click save.
+4. Refresh the page and a message should appear, telling you that your site has been published.
+5. The website has successfuly been deployed. 
+
+The link to the live webwite can be found [here](https://mohamed-hagabdalla.github.io/Portfolio-One/)
