@@ -320,6 +320,72 @@ footer a {
 }
 
 @media only screen and (min-width: 1025px) and (max-width: 1200px) {
+    .column_5 {
+        width: 41%;
+        display: inline-block;
+        position: relative;
+        border: 0px solid blue;
+        text-align: center;
+    }
+
+    .column_7 {
+        width: 58%;
+        display: inline-block;
+        position: relative;
+        border: 0px solid green;
+    }
+
+    .row {
+        width: 100%;
+        display: block;
+        position: relative;
+        border: 0px solid black;
+    }
+
+    .menu_option {
+        width: 28%;
+        display: inline-block;
+        position: relative;
+        border: 0px solid red;
+        margin-left: 3.3%;
+        text-align: center;
+        margin-bottom: 25px;
+        margin-top: 10px;
+    }
+
+    .column_4 {
+        width: 33%;
+        display: inline-block;
+        position: relative;
+        border: 0px solid blue;
+        text-align: center;
+        vertical-align: top;
+    }
+
+    .info {
+        display: inline-block;
+        width: 30%;
+        vertical-align: top;
+        margin-left: 2.5%;
+    }
+    
+    .about-us {
+        text-align: center;
+        position: relative;
+        right: 0px;
+        left: 0px;
+        top: 0px;
+        min-height: 50px;
+        z-index: 110;
+        background-color: rgb(33, 33, 33);
+        margin-top: 0px;
+        color: white;
+    }
+
+    .contact {
+        margin-top: 0px;
+        position: relative;
+    }
 
 }
 
