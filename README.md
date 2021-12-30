@@ -65,11 +65,11 @@ The link to the live website can be found [here](https://mohamed-hagabdalla.gith
 
 Below, I have provided references to any tools I used as help for my website.
 
-### content
+### Content
 
 - Steps taken to include CSS Media Queries were taken from this [YouTube Tutorial](https://www.youtube.com/watch?v=2KL-z9A56SQ)
 
-### media 
+### Media 
 
 - The images used for this website were taken from [Pexels](https://www.pexels.com/)
 
