@@ -1,38 +1,74 @@
-.top-header {
+.row {
+    width: 100%;
+    display: block;
+    position:relative;
+    border: 0px solid black;
+}
+
+
+.column_4 {
+    width: 33%;
+    display: inline-block;
+    position:relative;
+    border: 0px solid blue;
     text-align: center;
-    position: absolute;
-    right: 0px;
-    left: 0px;
-    top: 0px;
-    min-height: 50px;
-    z-index: 110;
+    vertical-align: top;
+}
+
+.column_4 p {
+    font-weight: 700;
+    font-size: large;
+}
+
+.column_5 {
+    width: 41%;
+    display: inline-block;
+    position:relative;
+    border: 0px solid blue;
+    text-align: center;
+}
+
+.column_5 h1{
+    font-size: xx-large;
+}
+
+.column_5 h3{
+    font-size: medium;
+}
+
+
+.column_7 {
+    width: 58%;
+    display: inline-block;
+    position:relative;
+    border: 0px solid green;
+}
+
+
+.menu_option  {
+    width: 28%;
+    display: inline-block;
+    position: relative;
+    border: 0px solid red;
+    margin-left: 3.3%;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.menu_option a{
+    font-size: large;
+    color: aquamarine;
+}
+
+.header {
     background-color: rgb(33, 33, 33);
     color: aquamarine;
 }
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 700;
-}
-
-.inline {
-    vertical-align: top;
-    display: inline-block;
-    width: 33%;
-}
-
-a {
-    color: white;
-    text-decoration-line: underline;
-}
-
-a:hover {
-    color: aquamarine;
-}
-
-nav {
-    float: right;
+.about_content h2{
+    font-size: medium;
+    text-decoration: underline;
 }
 
 h1 , h2 {
@@ -57,9 +93,22 @@ table, th, td {
 }
 
 .info {
-    margin-left: 600px;
-    width: 50%;
+    display: inline-block;
+    width: 32%;
+    vertical-align: top;
+    margin-left: 1%;
 }
+
+.info p {
+    font-weight: 600;
+}
+
+
+.table_heading {
+    margin-left: 600px;
+    margin-bottom: 400px;
+}
+
 .about-us {
     text-align: center;
     position: absolute;
@@ -83,32 +132,36 @@ footer {
     margin-top: 450px;
 }
 
-@media (min-width: 480px) {
-    body {
-        font-size: 1rem;
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .column_5 { 
+      width: 100%;
+    }
+    .column_7 { 
+        width: 100%;
+    }
+    .column_4 {
+        width: 48%;
+        margin-left: 0.6%;
     }
 }
 
-@media (min-width: 768px) {
-    body {
-        font-size: 1rem;
-    }
-}
 
-@media (min-width: 1024px) {
-    body {
-        font-size: 1rem;
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+    .column_5 { 
+      width: 40%;
     }
-}
+    .menu{
+        vertical-align: top;
+        margin-top: 47px;
+    }
+    .column_4 {
+        width: 32%;
+        margin-left: 0.6%;
+    }
 
-@media (min-width: 1200px) {
-    body {
-        font-size: 1rem;
+    .about_content h2{
+        font-size: xx-large;
     }
-}
 
-@media (min-width: 1201px) {
-    body {
-        font-size: 1rem;
-    }
 }
+    
