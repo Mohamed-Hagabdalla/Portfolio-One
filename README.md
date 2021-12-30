@@ -59,4 +59,18 @@ The website was deployed to GitHub pages. To successfully deploy my website, I t
 4. Refresh the page and a message should appear, telling you that your site has been published.
 5. The website has successfuly been deployed. 
 
-The link to the live webwite can be found [here](https://mohamed-hagabdalla.github.io/Portfolio-One/)
+The link to the live website can be found [here](https://mohamed-hagabdalla.github.io/Portfolio-One/)
+
+## Credits
+
+Reference where you got help from, in terms of contect and media (images)
+
+### content
+
+### media 
+
+- The images used for this website were taken from [Pexels](https://www.pexels.com/)
+
+## Acknowledgements
+
+- I would like to thank my mentor for his support and help throughout this project
