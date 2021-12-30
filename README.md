@@ -63,9 +63,11 @@ The link to the live website can be found [here](https://mohamed-hagabdalla.gith
 
 ## Credits
 
-Reference where you got help from, in terms of contect and media (images)
+Below, I have provided references
 
 ### content
+
+- Steps taken to include CSS Media Queries were taken from this [YouTube Tutorial](https://www.youtube.com/watch?v=2KL-z9A56SQ)
 
 ### media 
 
@@ -73,4 +75,4 @@ Reference where you got help from, in terms of contect and media (images)
 
 ## Acknowledgements
 
-- I would like to thank my mentor for his support and help throughout this project
+- I would like to thank my mentor for his full support and help throughout this project.
