@@ -47,8 +47,6 @@ To ensure the HTML and CSS codes ran smoothly and had no errors, they were both 
 
 ## Unfixed Bugs
 
-Talk about unfixed bugs and why they were not fixed. Include shortcomings of the frameworks or technologies used.
-
 One unfixed bug was the responsiveness of the website on different devices using CSS3. The website did not appear exactly how it was intended. This was due to the layout of the website. The website could have had a much better layout, which could have possibly made it easier to make responsive.
 
 ## Deployment
