@@ -69,6 +69,8 @@ Below, references to any tools used as help have been listed below.
 
 - Steps taken to include CSS Media Queries were taken from this [YouTube Tutorial](https://www.youtube.com/watch?v=2KL-z9A56SQ)
 
+The black background of the About Us seciton was taken from the [PureGym Website](https://www.puregym.com/)
+
 ### Media 
 
 - The images used for this website were taken from [Pexels](https://www.pexels.com/)
