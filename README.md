@@ -4,8 +4,6 @@
 
 **The GYM** is a website aimed at those who are interested in improving their fitness by joining a gym. In the first section, the user can find a promotion offer, benefits of joining, a list of equipment offered and opening hours. There is an about us section, which provides the user with more information about what they can expect by joining, accompanied by images of existing members in the gym. The final section is the contact section, in which the user can provide their full name and email address and they will be contacted to discuss any matters further.
 
-![This image shows my website on different screen sizes]()
-
 ## Features
 
 There are a few features that enhance the user's experience. For example, a navigation bar, images, contact form and a footer.
