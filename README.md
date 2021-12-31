@@ -31,7 +31,7 @@ There are a few features that enhance the user's experience. For example, a navi
 
 ## Testing
 
-The navigation bar on the top right hand corner of the website was tested to ensure each link navigated to the correct section of the website. There were 3 links and each one navigates to a different section of the website. I tested each link to ensure it does this with no problems.
+The navigation bar on the top right hand corner of the website was tested to ensure each link navigated to the correct section of the website. There were 3 links and each one navigates to a different section of the website. Each link navigates to its section with no problems.
 
 The website was tested for responsiveness for different screen sizes. One problem that occurred was the appearence of the website on the different devices. It did not appear exactly how it was meant to appear.
 
