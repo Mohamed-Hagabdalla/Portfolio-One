@@ -33,25 +33,27 @@ There are a few features that enhance the user's experience. For example, a navi
 
 The navigation bar on the top right hand corner of the website was tested to ensure each link navigated to the correct section of the website. There were 3 links and each one navigates to a different section of the website. I tested each link to ensure it does this with no problems.
 
-I tested the website for responsiveness for different screen sizes. One problem that occurred was the appearence of the website on the different devices. I could not get it to appear exactly how I wanted on al of the devices.
+The website was tested for responsiveness for different screen sizes. One problem that occurred was the appearence of the website on the different devices. It did not appear exactly how it was meant to appear.
 
 ## Validator Testing
 
-To ensure my HTML and CSS codes ran smoothly and had no errors, I tested for validation. I tested each code and more information on how I tested them is explained below in more detail.
+To ensure the HTML and CSS codes ran smoothly and had no errors, they were both tested for validation. Testing for each code and more information on how they were tested are explained below in more detail.
 
 1. HTML
--  No errors were found when I ran my HTML code on the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
+-  No errors were found when running the HTML code on the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
 2. CSS
-- No errors were found when I ran my CSS code on the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- No errors were found when running the CSS code on the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
 ## Unfixed Bugs
 
 Talk about unfixed bugs and why they were not fixed. Include shortcomings of the frameworks or technologies used.
 
+One unfixed bug was the responsiveness of the website on different devices using CSS3. The website did not appear exactly how it was intended. This was due to the layout of the website. The website could have had a much better layout, which could have possibly made it easier to make responsive.
+
 ## Deployment
 
-The website was deployed to GitHub pages. To successfully deploy my website, I took the following steps:
+The website was deployed to GitHub pages. To successfully deploy a website, follow the steps below:
 
 1. Ensure the relevant respository is loaded and select the settings tab.
 2. Navigate to the pages tab (the second-last option on the left hand side).
@@ -63,7 +65,7 @@ The link to the live website can be found [here](https://mohamed-hagabdalla.gith
 
 ## Credits
 
-Below, I have provided references to any tools I used as help for my website.
+Below, references to any tools used as help have been listed below.
 
 ### Content
 
